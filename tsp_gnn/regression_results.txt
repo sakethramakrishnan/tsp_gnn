@@ -21,3 +21,6 @@ Best Symbolic Regression Equation: PySRRegressor.equations_ = [
 MSE: 0.000773
 RMSE: 0.027799
 MAE: 0.013687
+
+
+1.3265738*(log(log(x0))**2)**(x0 + log(x1) + sin(0.4487219*x1))
